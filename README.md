@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning engineering **on computer science**
 
-- 👯 I’m looking to collaborate on develop ** Good relationship together**
+- 👯 I’m looking to collaborate on develop a networking based project
 
 - 💬 Ask me about **code , frontend , networking and cybersecurity**
 
