@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm surya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate computer science engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaxoxz&label=Profile%20views&color=0e75b6&style=flat" alt="suryaxoxz" /> </p><br>
 
@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning engineering **on computer science**
 
-- 👯 I’m looking to collaborate on developers **foodhut**
+- 👯 I’m looking to collaborate on develop ** Good relationship together**
 
-- 💬 Ask me about **code , frontend**
+- 💬 Ask me about **code , frontend , networking and cybersecurity**
 
 - 📫 How to reach me **suryappadurai@gmail.com**
 <br>
